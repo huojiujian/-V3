@@ -1,0 +1,5 @@
+{
+  "version": "3.0.2",
+  "releaseUrl": "https://github.com/huojiujian/-V3/releases/download/v3.0.2/video-uploader-v3.0.2.zip",
+  "changelog": "修复快手链接CDN前缀问题 + 新增在线更新检测"
+}
