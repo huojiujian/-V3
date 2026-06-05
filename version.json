@@ -1,5 +1,1 @@
-{ 
-  "version": "3.3.8", 
-  "releaseUrl": "https://github.com/huojiujian/-V3/releases/download/%E6%9B%B4%E6%96%B0/V3-3.3.8.zip", 
-  "changelog": "修复小红书 Shadow DOM closed 模式问题 + 编辑按钮识别优化" 
-}
+{ "version": "3.3.9", "releaseUrl": "https://github.com/huojiujian/-V3/releases/download/%E6%9B%B4%E6%96%B0/V3-3.3.9.zip", "changelog": "修复快手 v4.oskwai.com 链接前缀问题 + 小红书 Shadow DOM 优化" }
