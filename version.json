@@ -1,5 +1,5 @@
-{
-  "version": "3.0.3",
-  "releaseUrl": "https://github.com/huojiujian/-V3/releases/download/%E6%9B%B4%E6%96%B0/V3-3.0.3.zip",
-  "changelog": "修复快手链接CDN前缀问题 + 新增GitHub在线更新检测"
+{ 
+  "version": "3.3.8", 
+  "releaseUrl": "https://github.com/huojiujian/-V3/releases/download/%E6%9B%B4%E6%96%B0/V3-3.3.8.zip", 
+  "changelog": "修复小红书 Shadow DOM closed 模式问题 + 编辑按钮识别优化" 
 }
