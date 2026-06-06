@@ -1,1 +1,1 @@
-{ "version": "3.3.9", "releaseUrl": "https://github.com/huojiujian/-V3/releases/download/%E6%9B%B4%E6%96%B0/V3-3.3.9.zip", "changelog": "修复快手 v4.oskwai.com 链接前缀问题 + 小红书 Shadow DOM 优化" }
+{ "version": "3.4.1", "releaseUrl": "https://github.com/huojiujian/-V3/releases/download/%E6%9B%B4%E6%96%B0/V3-3.4.1.zip", "changelog": "智能网速检测 + 自动适配重试策略" }
