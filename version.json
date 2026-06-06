@@ -1,1 +1,1 @@
-{ "version": "3.4.1", "releaseUrl": "https://github.com/huojiujian/-V3/releases/download/%E6%9B%B4%E6%96%B0/V3-3.4.1.zip", "changelog": "智能网速检测 + 自动适配重试策略" }
+{ "version": "3.4.2", "releaseUrl": "https://github.com/huojiujian/-V3/releases/download/%E6%9B%B4%E6%96%B0/V3-3.4.2.zip", "changelog": "网络配置独立显示 + 修复重试计数错误" }
